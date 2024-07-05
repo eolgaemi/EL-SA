@@ -16,7 +16,8 @@ EL:SA(ELevator Safety Assistant) 교통 약자 인식 엘리베이터 자동 도
 - 엘리베이터 문 열림 시간을 동적으로 조절 할 수 있어야 한다.
 
 ## 📌 사용 기술 및 개발환경
-
+### 비전 AI 모델 개발환경
+[![Generic badge](https://img.shields.io/badge/python-3.10.14-green.svg)](https://shields.io/)
 
 ## 📌 시제품 사용 장비
 
