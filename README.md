@@ -14,10 +14,19 @@ EL:SA(ELevator Safety Assistant) 교통 약자 인식 엘리베이터 자동 도
 ## 📌 개발 요구사항
 - 교통약자를 인식할 수 있어야 한다.
 - 엘리베이터 문 열림 시간을 동적으로 조절 할 수 있어야 한다.
+- 라즈베리파이를 활용하여 시제품을 제작한다.
 
 ## 📌 사용 기술 및 개발환경
 ### 비전 AI 모델 개발환경
-[![Generic badge](https://img.shields.io/badge/python-3.10.14-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Windows-11.Pro-blue.svg)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/python-3.10.14-green.svg)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/Yolov8-8.2.15-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/OpenCV-4.9.0-yellow.svg)](https://shields.io/)
+### 시제품, 교통약자 객체 트래커 개발환경
+[![Generic badge](https://img.shields.io/badge/Raspbian-Bookworm-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/python-3.11.2-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Yolov8-8.2.16-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/OpenCV-4.9.0-yellow.svg)](https://shields.io/)
 
 ## 📌 시제품 사용 장비
 
