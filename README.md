@@ -31,5 +31,12 @@ EL:SA(ELevator Safety Assistant) 교통 약자 인식 엘리베이터 자동 도
 [![Generic badge](https://img.shields.io/badge/Yolov8-8.2.16-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/OpenCV-4.9.0-yellow.svg)](https://shields.io/)
 
-## 📌 시제품 사용 장비
+## 📌 시제품 구조도
+
+## 📌 Yolov8 모델 다이어그램
+
+## 📌 EL-SA 클래스 다이어그램
+
+## 📌 문 열림 시간 조절 알고리즘 순서도
+
 
