@@ -32,7 +32,8 @@ EL:SA(ELevator Safety Assistant) 교통 약자 인식 엘리베이터 자동 도
 [![Generic badge](https://img.shields.io/badge/OpenCV-4.9.0-yellow.svg)](https://shields.io/)
 
 ## 📌 EL-SA 프로젝트 최종 PPT
-[![image](https://github.com/user-attachments/assets/49730ddd-d3f6-47c4-956a-25e01a658313)](Documents/결과보고서5조AI로켓단_ELSA(교통약자인식엘레베이터자동도어시스템).pdf)
+[![image](https://github.com/user-attachments/assets/49730ddd-d3f6-47c4-956a-25e01a658313)](Documents/결과보고서5조AI로켓단_ELSA(교통약자인식엘레베이터자동도어시스템).pdf)<br>
+(이미지를 누르면 PPT 페이지로 이동합니다.)
 
 ## 📌 시제품 구조도
 ![Rpi_Diagram](./Documents/EL-SA_회로도.png)
