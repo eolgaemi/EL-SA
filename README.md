@@ -39,7 +39,7 @@ EL:SA(ELevator Safety Assistant) 교통 약자 인식 엘리베이터 자동 도
 ![Rpi_Diagram](./Documents/EL-SA_회로도.png)
 
 ## 📌 Yolov8 모델 다이어그램
-[Yolov8 모델 다이어그램![image](https://github.com/user-attachments/assets/38a10ebd-73c1-4648-bae0-8f9a87c22075)(./Documents/ELSA_yolov8_모델_다이어그램.svg)]
+[![image](https://github.com/user-attachments/assets/38a10ebd-73c1-4648-bae0-8f9a87c22075)](./Documents/ELSA_yolov8_모델_다이어그램.svg)]
 
 ## 📌 EL-SA 클래스 다이어그램
 
